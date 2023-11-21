@@ -1,0 +1,7 @@
+.welcome{
+    background-image: url(bgwel.jpg);
+    background-repeat: no-repeat;
+    background-color: rgb(156, 156, 235);
+    background-size: 100% 100%;
+    /* margin: 0 auto; */
+}
